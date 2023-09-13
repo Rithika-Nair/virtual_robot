@@ -1,0 +1,451 @@
+Mono path[0] = '/Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.40f1 (ba48d4efcef1)
+[Subsystems] Discovering subsystems at path /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Resources/Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.059 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+UnloadTime: 0.321208 ms
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by carry
+Agent 1 wins by capture
+Draw!
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Draw!
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by distance
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by distance
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by distance
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by carry
+Agent 2 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by distance
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Draw!
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Draw!
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by carry
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by carry
+Agent 1 wins by capture
+Agent 1 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 2 wins by capture
+Agent 1 wins by capture
+Thread 0x16c49b000 may have been prematurely finalized
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 16c49b000 -> priority: 1 
+  Thread -> id: 16c527000 -> priority: 1 
+  Thread -> id: 16b267000 -> priority: 1 
+  Thread -> id: 16c5b3000 -> priority: 1 
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/rithika/Desktop/UBC/COGS 300/Project/lab7to9-robot-tournament-main/MTHCbuild2.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
